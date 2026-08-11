@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "datreal": {
+      "url": "https://datreal.com/api/mcp"
+    }
+  }
+}

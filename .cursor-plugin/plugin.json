@@ -1,0 +1,28 @@
+{
+  "name": "datreal",
+  "displayName": "Datreal",
+  "version": "1.0.0",
+  "description": "Baltic and Nordic company search, financials, shareholders, and compliance checks via the Datreal MCP server. Covers LV, LT, EE, FI, and SE. No API key required.",
+  "author": {
+    "name": "Grand Ventures",
+    "email": "hello@grand-ventures.com"
+  },
+  "homepage": "https://datreal.com",
+  "repository": "https://github.com/grand-ventures/datreal-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "datreal",
+    "company-data",
+    "baltic",
+    "nordic",
+    "compliance",
+    "financials",
+    "mcp",
+    "latvia",
+    "lithuania",
+    "estonia",
+    "finland",
+    "sweden"
+  ],
+  "logo": "assets/logo.svg"
+}
